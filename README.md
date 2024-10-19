@@ -1,5 +1,5 @@
 # go-config
-Just a very small go package for loading values from .ini files, I am just playing around with GoLang.
+Just a very small go package for loading values from .ini files, I am just playing around with GoLang so excuse me if you dont like the code :-)
 
 ## With config.Load() you can load ini files
 
